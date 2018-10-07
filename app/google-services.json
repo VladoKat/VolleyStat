@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "371925048559",
+    "firebase_url": "https://volleystat-f617b.firebaseio.com",
+    "project_id": "volleystat-f617b",
+    "storage_bucket": "volleystat-f617b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371925048559:android:3aceae7e1a69b983",
+        "android_client_info": {
+          "package_name": "com.example.macbookpro.volleystat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371925048559-8rukc6jdtdlnc86g0gr5f0cjqomp6g5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.macbookpro.volleystat",
+            "certificate_hash": "b2a9eb7204deb15ef38c60378904332c8a10c625"
+          }
+        },
+        {
+          "client_id": "371925048559-adopahp8377iia7bdgr2q40bevaj6ofb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC17_8IiNgEVWBBTmSwN7eiMb1pUH6Nh58"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371925048559-adopahp8377iia7bdgr2q40bevaj6ofb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
